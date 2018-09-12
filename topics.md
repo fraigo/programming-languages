@@ -16,6 +16,12 @@
 
 ### String
 
+#### String literals
+
+#### Concatenating
+
+#### UTF-8 characters
+
 ### Date and time
 
 ### Boolean
@@ -32,6 +38,8 @@
 ### Structures
 
 ### Enumerations
+
+### Tuples
 
 ### Classes
 
