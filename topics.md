@@ -41,18 +41,25 @@
 
 # Operators
 
+## Addignment operators
 
 ## Mathematical operators
 
+## Comparison operators
 
 ## Logical operators
 
-
 ## Bitwise operators
-
 
 ## Other operators
 
+### Coalescencing
+
+### Set operators
+
+### Range operators
+
+## Operator precedence
 
 
 # Input and Output
