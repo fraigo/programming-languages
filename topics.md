@@ -20,6 +20,8 @@
 
 #### Concatenating
 
+#### Interpolation
+
 #### UTF-8 characters
 
 ### Date and time
@@ -66,6 +68,8 @@
 ### Set operators
 
 ### Range operators
+
+### Type operators/modifiers
 
 ## Operator precedence
 
