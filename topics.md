@@ -73,6 +73,8 @@
 
 ## Operator precedence
 
+## Operator overload
+
 
 # Input and Output
 
@@ -116,7 +118,7 @@
 
 
 
-## Usage
+## Function call
 
 
 # Object Oriented programming
@@ -132,6 +134,10 @@
 ### Constructors
 
 ### Abstract classes
+
+### Extensions
+
+### Partial Classes
 
 ### Instances (Objects)
 
@@ -157,6 +163,12 @@
 
 ### Overloading 
 
+
+# Language constructs
+
+## Traits
+
+## 
 
 # Error Handling
 
