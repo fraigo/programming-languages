@@ -18,9 +18,9 @@
 
 #### String literals
 
-#### Concatenating
+#### String Concatenating
 
-#### Interpolation
+#### String Interpolation
 
 #### UTF-8 characters
 
@@ -48,6 +48,11 @@
 ### Other types
 
 
+## Memory management in types
+
+### Value types
+
+### Reference types
 
 # Operators
 
